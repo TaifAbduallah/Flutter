@@ -1,1 +1,3 @@
 # Flutter
+in this repository i'll submit my work which is:programming application with android software with IBM Waston assistant for the speech conversiation ,
+i followed all the steps in this link to install the flutter :https://flutter.dev/docs/get-started/install/windows , Then i set up the editor ...
